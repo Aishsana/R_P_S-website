@@ -2,6 +2,16 @@ body{
   background-color: rgb(25,25,25);
   color:white;
   font-family: Arial;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.content {
+  width: 80%; 
+  text-align: center; 
 }
 .title{
   font-size: 30px;
